@@ -1,0 +1,14 @@
+CD commands are the change directory
+CD~ back to the directory
+cd.. home directory
+Mkdir making a new directory
+ls commands are the list files directory
+Git add are the new file
+ls -a commands are the hidden floder
+git config  --global user.name  commands are the set the username
+git config --global user.email commands are the set the email address
+git init initialize a repository
+git status for checking status of the file
+git clone commands are the download a entire repository
+git commit -m commands are the commits
+git rm commands are the delete the file from the working 
